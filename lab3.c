@@ -81,6 +81,8 @@ int main()
 	printf("Conclusion\n");
 	
 	printf("Your total points:%lf\n", total);
+	return 0;
+}
 	
 	return 0;
 }
